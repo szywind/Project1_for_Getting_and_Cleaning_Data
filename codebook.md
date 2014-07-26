@@ -18,8 +18,8 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-
-Code Book:
+================================================================================
+Code Book
 
 The original data was cleaned up following these steps:
 
@@ -37,8 +37,9 @@ Step 4: Appropriately labels the data set with descriptive variable names by sub
 Step 5: Create a second, independent tidy data set with the average of each variable for each activity and each subject by melting, "aggregate" and casting "data4". The tidy data frame obtained has 180 observations and 72 variables.
 
 NOTE: 
-- Feature variables in the tidy data frame are normalized and bounded within            [-1,1], so they have no units.
-- "stddev" stands for "standard deviation" and "freq" stands for "frequency" 
+-Feature variables in the tidy data frame are normalized and bounded within           [-1,1], so they have no units.
+
+-"stddev" stands for "standard deviation" and "freq" stands for "frequency" 
 
 Variables of the tidy data:
 

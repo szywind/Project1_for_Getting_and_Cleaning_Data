@@ -3,6 +3,7 @@ README.md for run_analysis.R
 
 ================================================================================
 This file describes some details in writing run.analysis.R script. We can run the script to clean up the data via the following steps.
+
 ================================================================================
 Step 0. Initialize. 
 
@@ -10,6 +11,7 @@ line 18, Let's set up the current work directory.
 line 21~23, read the training data and save as data frame with suffix "_train"
 line 25~27, read the test data and save as data frame with suffix "_test".
 line 30~31, read the feature names and activity labels.
+
 ================================================================================
 Step 1. Merges the training and the test sets to create one data set.
 
