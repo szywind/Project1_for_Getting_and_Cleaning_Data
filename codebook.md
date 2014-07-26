@@ -44,7 +44,7 @@ NOTE:
 Variables of the tidy data:
 
 subject                                       "numeric"  
-activity                                      "character"
+activity                                      "character"  
 timeDomainBodyAccelerationmeanX               "numeric"  
 timeDomainBodyAccelerationmeanY               "numeric"  
 timeDomainBodyAccelerationmeanZ               "numeric"  
